@@ -1,0 +1,8 @@
+#Створення калькулятора
+first_number = int(input('Введіть перше число: '))
+second_number = int(input('Введіть друге число: '))
+print("Сума чисел: ", first_number + second_number)
+print("Різниця чисел: ", first_number - second_number)
+print("Добуток чисел: ", first_number * second_number)
+print("Частка чисел: ", first_number / second_number)
+
